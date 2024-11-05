@@ -1,4 +1,4 @@
-﻿frame_fixation_set,frame_set,fixation_NP,fixation_VP
+﻿frame_fixation_id,frame_set,fixation_NP,fixation_VP
 1,frame3,med,use_fixation
 2,frame4,med,use_fixation
 3,frame5,med,use_fixation
