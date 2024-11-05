@@ -1,4 +1,4 @@
-﻿frame_callsign_id,frame_set,callsign_NP,command_VP
+﻿frame_callsign_id,frame_set,callsign_NP,callsign_VP
 1,frame1,JSA450,use_callsign
 2,frame1,CPA633,use_callsign
 3,frame1,GIA730,use_callsign
