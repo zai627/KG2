@@ -1,0 +1,11 @@
+callsign_frame_id,callsign_set,frame_NP,frame_VP
+1,CPA633,frame3,use_frame
+2,CPA633,frame6,use_frame
+3,CPA633,frame58,use_frame
+4,CPA633,frame138,use_frame
+5,MAS547,frame4,use_frame
+6,MAS547,frame42,use_frame
+7,MAS547,frame43,use_frame
+8,MAS547,frame78,use_frame
+9,MAS547,frame80,use_frame
+10,MAS547,frame156,use_frame
