@@ -1,0 +1,13 @@
+﻿frame_command_id,frame_set,command_NP,command_VP
+1,frame3,STRT,use_command
+2,frame40,UCO,use_command
+3,frame41,EFL,use_command
+4,frame79,HDG,use_command
+5,frame86,HDG,use_command
+6,frame139,TOC,use_command
+7,frame27,STRT,use_command
+8,frame48,UCO,use_command
+9,frame54,EFL,use_command
+10,frame73,EFL,use_command
+11,frame83,EFL,use_command
+12,frame132,TOC,use_command
